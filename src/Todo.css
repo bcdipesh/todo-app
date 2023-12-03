@@ -1,0 +1,22 @@
+.Todo {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.Todo:hover {
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+p {
+  flex: 1;
+  padding: 0 0 0 5px;
+}
+
+.Todo-remove-btn {
+  cursor: pointer;
+}

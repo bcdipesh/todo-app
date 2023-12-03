@@ -1,8 +1,6 @@
-.App {
-  margin: 0 auto;
-  width: 50vw;
-  height: 100vh;
+.TodoList {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }

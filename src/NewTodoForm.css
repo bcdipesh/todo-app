@@ -1,0 +1,8 @@
+.NewTodoForm {
+  margin-bottom: 10px;
+}
+
+.NewTodoForm-todo-task,
+.NewTodoForm-add-todo-btn {
+  padding: 5px;
+}
